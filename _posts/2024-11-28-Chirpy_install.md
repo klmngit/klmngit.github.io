@@ -50,3 +50,5 @@ Edit _config.yml and make any necessary changes.
 
 # Deploy using GitHub Actions
 Open GitHub repository, go to "Settings", opne "Pages" and select "GitHub Actions" in "Source" dropdown menu. Make changes to the local repo and push it to GitHub. This will trigger "GitHub Actions" and run build and deploy workflow. 
+
+
